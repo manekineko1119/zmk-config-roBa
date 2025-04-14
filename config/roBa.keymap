@@ -84,8 +84,6 @@
 &trans  &trans  &kp LESS_THAN     &kp GREATER_THAN   &kp QUESTION  &trans    &kp ASTERISK  &kp PLUS              &kp EQUAL              &kp SLASH       &kp BACKSLASH      &kp PAGE_UP
 &trans  &trans  &trans            &trans             &trans        &trans    &trans        &trans                                                                          &kp PAGE_DOWN
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOLUME_DOWN>;
         };
 
         NUM {
